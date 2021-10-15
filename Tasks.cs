@@ -20,7 +20,7 @@ namespace W2L4
 
             char gender;
 
-            int pesel;
+            string pesel;
 
             int employeeNumber;
 
